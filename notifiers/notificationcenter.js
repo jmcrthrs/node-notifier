@@ -6,7 +6,7 @@ var Growl = require('./growl');
 var path = require('path');
 var notifier = path.join(
   __dirname,
-  '../vendor/Otixo Teams.app/Contents/MacOS/Otixo Teams'
+  '../vendor/WeTeam.app/Contents/MacOS/WeTeam'
 );
 
 var EventEmitter = require('events').EventEmitter;
